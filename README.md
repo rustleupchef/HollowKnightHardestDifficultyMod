@@ -5,13 +5,12 @@ Changes
      
     . if you get hit once you insta die 
   
-    . you do one damage unless you use spells which do 2
+    . you do one damage unless you use spells which does 2
   
     . you have a shorter nail length
   
     . you can not equip charms 
   
-    . you only get one mp for every hit 
+    . you only get one soul for every hit 
   
-    . you can only use one cast
-
+    . you can only use one cast of a spell before you have to regain soul
