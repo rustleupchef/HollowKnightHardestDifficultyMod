@@ -14,3 +14,5 @@ Changes
     . you only get one soul for every hit 
   
     . you can only use one cast of a spell before you have to regain soul
+   
+Disclaimer! This could lose you all yout charms, so don't use on a main playthrough
