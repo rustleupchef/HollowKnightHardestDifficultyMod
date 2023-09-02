@@ -10,9 +10,9 @@ Changes
     . you have a shorter nail length
   
     . you can not equip charms 
-  
-    . you only get one soul for every hit 
-  
-    . you can only use one cast of a spell before you have to regain soul
+    
+    . you can only use one cast of a spell before you have to regain soul 
+
+    . you can't do damage to characters that blocks or has def
    
 Disclaimer! This could lose you all yout charms, so don't use on a main playthrough
